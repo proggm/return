@@ -1,0 +1,8 @@
+E:\проекты\return\return\bin\Debug\@return.exe.config
+E:\проекты\return\return\bin\Debug\@return.exe
+E:\проекты\return\return\bin\Debug\@return.pdb
+E:\проекты\return\return\obj\Debug\return.csproj.AssemblyReference.cache
+E:\проекты\return\return\obj\Debug\return.csproj.SuggestedBindingRedirects.cache
+E:\проекты\return\return\obj\Debug\return.csproj.CoreCompileInputs.cache
+E:\проекты\return\return\obj\Debug\@return.exe
+E:\проекты\return\return\obj\Debug\@return.pdb
